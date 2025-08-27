@@ -1,0 +1,5 @@
+{
+  "name": "Consultant Payslip Generator",
+  "description": "A web application to generate a professional consultant payslip. Users can input gross consultancy fees and TDS percentage to automatically calculate the net payable amount.",
+  "requestFramePermissions": []
+}
